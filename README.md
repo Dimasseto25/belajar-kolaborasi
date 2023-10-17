@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar commit 1
+Belajar commit 2
